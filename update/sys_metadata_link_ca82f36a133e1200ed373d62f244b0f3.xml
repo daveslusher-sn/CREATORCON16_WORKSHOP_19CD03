@@ -22,7 +22,7 @@
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-18 18:37:29</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ca82f36a133e1200ed373d62f244b0f3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>First poll</sys_name>

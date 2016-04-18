@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-18 18:32:05</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6641bf2a133e1200ed373d62f244b09e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_polls_question</sys_name>
