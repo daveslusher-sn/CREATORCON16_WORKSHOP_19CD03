@@ -31,7 +31,7 @@
         <sys_class_name>sys_ws_operation</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-18 19:07:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bd1937a2137e1200ed373d62f244b092</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Retrieve poll results</sys_name>
