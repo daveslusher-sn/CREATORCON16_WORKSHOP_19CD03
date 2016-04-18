@@ -13,7 +13,7 @@
     var pollHelper = new x_snc_polls.PollData_Creator();
 
     // Validate if poll record exists
-    var pollRecord = new GlideRecord("x_snc_polls_poll");
+    var pollRecord = new GlideRecordSecure("x_snc_polls_poll");
     pollRecord.get(pollId);
 
     var questionData = request.body.data;
@@ -35,9 +35,9 @@
         <sys_class_name>sys_ws_operation</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-18 18:58:20</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_id>54377fae133e1200ed373d62f244b091</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Edit poll</sys_name>
         <sys_package display_value="Polls" source="x_snc_polls">cd1f2766133e1200ed373d62f244b082</sys_package>
         <sys_policy/>
@@ -45,7 +45,7 @@
         <sys_scope display_value="Polls">cd1f2766133e1200ed373d62f244b082</sys_scope>
         <sys_update_name>sys_ws_operation_54377fae133e1200ed373d62f244b091</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-04-18 18:58:20</sys_updated_on>
+        <sys_updated_on>2016-04-18 19:14:41</sys_updated_on>
         <web_service_definition display_value="Poll">31053b2e133e1200ed373d62f244b091</web_service_definition>
         <web_service_version display_value="v1">5915772e133e1200ed373d62f244b08f</web_service_version>
     </sys_ws_operation>
