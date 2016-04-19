@@ -8,7 +8,7 @@
         <hint/>
         <name>Poll</name>
         <order>100</order>
-        <roles>x_snc_polls_poll_user</roles>
+        <roles/>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-18 18:30:32</sys_created_on>
